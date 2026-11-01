@@ -6,7 +6,7 @@ CookieMute is a Chrome extension that automatically rejects cookie consent banne
 - **Support and bug reports:** [Issues](https://github.com/chenbin2015/cookiemute-support/issues)
 - **Chrome Web Store:** listing will be linked here after review
 
-CookieMute runs entirely in your browser. It makes no network requests, does not store, transmit, sell, or share user data, and stores its settings only in local extension storage. Page content is read locally in memory only to find cookie banners.
+CookieMute runs entirely in your browser. It makes no network requests, does not transmit, sell, or share user data, and stores its settings only in local extension storage. Page content is read locally in memory only to find cookie banners.
 
 ## Support
 
