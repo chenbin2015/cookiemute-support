@@ -6,8 +6,9 @@ CookieMute is a browser extension that automatically rejects cookie consent bann
 
 ## Summary
 
-- CookieMute does **not** store, transmit, sell, or share any user data.
+- CookieMute does **not** transmit, sell, or share any user data.
 - Page content is read locally in memory only to find cookie banners, then discarded.
+- Settings, whitelist, and the local counter stay in your browser and are never sent anywhere.
 - CookieMute makes **no network requests**.
 - There are no analytics, ads, trackers, or remote configuration.
 
